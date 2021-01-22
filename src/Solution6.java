@@ -6,7 +6,7 @@ public class Solution6 {
         int numberOfA_Seats= sc.nextInt();
         System.out.println("Input number of seats B: ");
         int numberOfB_Seats=sc.nextInt();
-        System.out.println("Input number of seats C: ")
+        System.out.println("Input number of seats C: ");
         int numberOfC_Seats=sc.nextInt();
         System.out.println("Input price of seats A: ");
         int pricePerA_Seat=sc.nextInt();
